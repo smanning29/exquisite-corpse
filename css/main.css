@@ -106,6 +106,14 @@ h5{
   font-family: 'Rock Salt', cursive;
 }
 
+
+
+/* scary */
+h6{
+  font-family: 'Eater', cursive;
+}
+
+
 body{
   background-color: #8C873F;
   /*darker*/
@@ -117,6 +125,10 @@ body{
 main{
   width: 80%;
   margin: 0 auto;
+}
+
+#eating{
+  float: left;
 }
 
 /* ==========================================================================
