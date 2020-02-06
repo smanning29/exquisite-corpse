@@ -107,16 +107,24 @@ h5{
 }
 
 
+
 /* scary */
 h6{
   font-family: 'Eater', cursive;
 }
+
 
 body{
   background-color: #8C873F;
   /*darker*/
   /*background - color: #51592A;*/
   color: #3D4028;
+  text-align: center;
+}
+
+main{
+  width: 80%;
+  margin: 0 auto;
 }
 
 
@@ -284,4 +292,3 @@ body{
     page-break-after: avoid;
   }
 }
-
