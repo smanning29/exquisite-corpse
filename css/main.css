@@ -111,6 +111,12 @@ body{
   /*darker*/
   /*background - color: #51592A;*/
   color: #3D4028;
+  text-align: center;
+}
+
+main{
+  width: 80%;
+  margin: 0 auto;
 }
 
 /* ==========================================================================
@@ -277,4 +283,3 @@ body{
     page-break-after: avoid;
   }
 }
-
