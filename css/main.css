@@ -106,12 +106,12 @@ h5{
   font-family: 'Rock Salt', cursive;
 }
 
-<<<<<<< HEAD
+
 /* scary */
 h6{
   font-family: 'Eater', cursive;
 }
-=======
+
 body{
   background-color: #8C873F;
   /*darker*/
@@ -119,7 +119,7 @@ body{
   color: #3D4028;
 }
 
->>>>>>> 0b0ffdd134c582b69f9436d9ee97ff097304cf4b
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
