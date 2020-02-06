@@ -1,15 +1,51 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# TEAM
+/* TEAM */
 
-    <name> -- <role> -- <twitter>
+Writer & Developer: Sarah Manning           
+Site: email, link to a contact form, etc.                
+GitHub: your Twitter username.    
+Location: City, Country. 
 
-# THANKS
+Writer & Developer: Cassidy Jensen          
+Site: email, link to a contact form, etc.                
+GitHub: your Twitter username.    
+Location: City, Country.
+                    
+Writer & Developer: Max Kitay              
+Site: email, link to a contact form, etc.                
+GitHub: your Twitter username.    
+Location: City, Country.                 
+						
+Writer & Developer: Jael Johnson            
+Site: email, link to a contact form, etc.                
+GitHub: your Twitter username.    
+Location: City, Country.
 
-    <name>
+Writer & Developer: Damian Howard         
+Site: email, link to a contact form, etc.                
+GitHub: your Twitter username.    
+Location: City, Country.
+							
+/* THANKS */
 
-# TECHNOLOGY COLOPHON
+							
+Name: name or url
+                        
 
-    CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+                            
+/* SITE */
+
+                            
+Last update: YYYY/MM/DD 
+
+                            
+Standards: HTML5, CSS3,..
+
+                            
+Components: Modernizr, jQuery, etc.
+
+                            
+Software: Software used for the development
+   
