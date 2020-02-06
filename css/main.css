@@ -111,6 +111,7 @@ body{
   /*darker*/
   /*background - color: #51592A;*/
   color: #3D4028;
+  text-align: center;
 }
 
 main{
@@ -282,4 +283,3 @@ main{
     page-break-after: avoid;
   }
 }
-
