@@ -4,29 +4,29 @@
 /* TEAM */
 
 Writer & Developer: Sarah Manning           
-Site: email, link to a contact form, etc.                
-GitHub: your Twitter username.    
-Location: City, Country. 
+Site: http://creative.colorado.edu/~sama3207/dev/         
+GitHub: https://github.com/smanning29/ 
+Location: Boulder, Colorado
 
 Writer & Developer: Cassidy Jensen          
-Site: email, link to a contact form, etc.                
-GitHub: your Twitter username.    
-Location: City, Country.
+Site: http://creative.colorado.edu/~caje3411/dev/             
+GitHub: https://github.com/CassidyJensen    
+Location: Boulder, Colorado
                     
 Writer & Developer: Max Kitay              
-Site: email, link to a contact form, etc.                
-GitHub: your Twitter username.    
-Location: City, Country.                 
+Site: http://creative.colorado.edu/~maki8336/dev/          
+GitHub: https://github.com/mkitay 
+Location: Boulder, Colorado                 
 						
 Writer & Developer: Jael Johnson            
-Site: email, link to a contact form, etc.                
-GitHub: your Twitter username.    
-Location: City, Country.
+Site: http://creative.colorado.edu/~jajo6032/dev/               
+GitHub: https://github.com/jaelj 
+Location: Boulder, Colorado
 
 Writer & Developer: Damian Howard         
-Site: email, link to a contact form, etc.                
-GitHub: your Twitter username.    
-Location: City, Country.
+Site: http://creative.colorado.edu/~daho2353/dev/                
+GitHub: https://github.com/daho2353    
+Location: Boulder, Colorado
 							
 /* THANKS */
 
@@ -38,7 +38,7 @@ Name: name or url
 /* SITE */
 
                             
-Last update: YYYY/MM/DD 
+Last update: 2020/02/10
 
                             
 Standards: HTML5, CSS3,..
