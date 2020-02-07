@@ -1,7 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-/* TEAM */
+/* TEAM - DinoSquad */
 
 Writer & Developer: Sarah Manning           
 Site: http://creative.colorado.edu/~sama3207/dev/         
