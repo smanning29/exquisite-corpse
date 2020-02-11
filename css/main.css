@@ -137,13 +137,20 @@ h1{
   font-size: 7em;
 }
 
+h1:hover{
+  color: orangered;
+}
+
 h2{
   font-family: 'Montserrat', sans-serif;
   font-size: 1.5em;
-  border: 3px black;
-  border-style: double;
-  width: 75%;
-  margin: 0 auto;
+  width: 100%;
+  padding: 20px;
+}
+
+h2:hover{
+  background-color: tan;
+  transition: background-color 0.3s ease-in-out;
 }
 
 body{
