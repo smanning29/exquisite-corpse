@@ -99,6 +99,16 @@ textarea {
    ========================================================================== */
 p {
   font-family: 'Montserrat', sans-serif;
+  font-size: 1.2em;
+  background: tan;
+  width: 60%;
+  margin: 2% auto;
+  padding: 2%;
+  box-shadow: 10px 10px 20px black;
+}
+
+.alternate{
+  box-shadow: -10px 10px 20px black;
 }
 
 /* handwriting*/
@@ -117,6 +127,10 @@ h1{
 h2{
   font-family: 'Montserrat', sans-serif;
   font-size: 1.5em;
+  border: 3px black;
+  border-style: double;
+  width: 75%;
+  margin: 0 auto;
 }
 
 body{
