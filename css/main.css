@@ -104,12 +104,25 @@ p {
   width: 60%;
   margin: 2% auto;
   padding: 2%;
+  
+}
+
+.shadow{
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.shadow:hover{
   box-shadow: 10px 10px 20px #3D4028;
 }
 
 .alternate{
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.alternate:hover{
   box-shadow: -10px 10px 20px #3D4028;
 }
+
 
 /* handwriting*/
 h5{
