@@ -157,6 +157,9 @@ body{
   /*background - color: #51592A;*/
   color: #3D4028;
   text-align: center;
+  border-style:inset;
+  border-color: black;
+  border-width:10px;
 }
 
 main{
@@ -170,6 +173,11 @@ main{
 
 .tiny-rex{
   float: left;
+}
+
+.skis{
+  float: right;
+  margin-top:250px;
 }
 /* ==========================================================================
    Helper classes
