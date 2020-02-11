@@ -135,6 +135,7 @@ h5{
 h1{
   font-family: 'Eater', cursive;
   font-size: 7em;
+  position:relative;
 }
 
 h1:hover{
@@ -160,6 +161,7 @@ body{
   border-style:inset;
   border-color: black;
   border-width:10px;
+
 }
 
 main{
