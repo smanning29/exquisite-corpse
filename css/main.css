@@ -104,11 +104,11 @@ p {
   width: 60%;
   margin: 2% auto;
   padding: 2%;
-  box-shadow: 10px 10px 20px black;
+  box-shadow: 10px 10px 20px #3D4028;
 }
 
 .alternate{
-  box-shadow: -10px 10px 20px black;
+  box-shadow: -10px 10px 20px #3D4028;
 }
 
 /* handwriting*/
