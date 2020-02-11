@@ -151,11 +151,6 @@ h2{
   border-style: double;
 }
 
-h2:hover{
-  background-color: tan;
-  transition: background-color 0.3s ease-in-out;
-}
-
 body{
   background-color: #8C873F;
   /*darker*/
