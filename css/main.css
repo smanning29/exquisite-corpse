@@ -143,9 +143,12 @@ h1:hover{
 
 h2{
   font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
   font-size: 1.5em;
   width: 100%;
   padding: 20px;
+  border: #3D4028;
+  border-style: double;
 }
 
 h2:hover{
